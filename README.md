@@ -1,2 +1,2 @@
 # Python-Basics
-exercises for upgrade
+Exercises for upgrade
